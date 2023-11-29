@@ -1,4 +1,4 @@
-module github.com/eko/gocache/lib/v4
+module github.com/giovannicuriel/gocache/lib/v4
 
 go 1.19
 

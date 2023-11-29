@@ -6,7 +6,7 @@ import (
 	"math"
 	"testing"
 
-	lib_store "github.com/eko/gocache/lib/v4/store"
+	lib_store "github.com/giovannicuriel/gocache/lib/v4/store"
 	"github.com/hazelcast/hazelcast-go-client"
 )
 

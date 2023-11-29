@@ -8,7 +8,7 @@ import (
 	"github.com/golang/mock/gomock"
 	"github.com/stretchr/testify/assert"
 
-	lib_store "github.com/eko/gocache/lib/v4/store"
+	lib_store "github.com/giovannicuriel/gocache/lib/v4/store"
 )
 
 func TestNewHazelcast(t *testing.T) {

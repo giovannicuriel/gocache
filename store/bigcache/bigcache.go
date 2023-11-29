@@ -7,7 +7,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/eko/gocache/lib/v4/store"
+	"github.com/giovannicuriel/gocache/lib/v4/store"
 )
 
 // BigcacheClientInterface represents a allegro/bigcache client

@@ -1,9 +1,9 @@
-module github.com/eko/gocache/store/rueidis/v4
+module github.com/giovannicuriel/gocache/store/rueidis/v4
 
 go 1.19
 
 require (
-	github.com/eko/gocache/lib/v4 v4.1.5
+	github.com/giovannicuriel/gocache/lib/v4 v4.1.5
 	github.com/golang/mock v1.6.0
 	github.com/rueian/rueidis v0.0.95
 	github.com/stretchr/testify v1.8.1
@@ -17,4 +17,4 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
 
-replace github.com/eko/gocache/lib/v4 => ../../lib/
+replace github.com/giovannicuriel/gocache/lib/v4 => ../../lib/

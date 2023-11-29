@@ -7,8 +7,8 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/eko/gocache/lib/v4/codec"
-	"github.com/eko/gocache/lib/v4/store"
+	"github.com/giovannicuriel/gocache/lib/v4/codec"
+	"github.com/giovannicuriel/gocache/lib/v4/store"
 )
 
 const (
